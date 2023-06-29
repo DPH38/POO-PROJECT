@@ -13,10 +13,8 @@ Corrida: contém a definição da classe Corrida.
 ## Como executar
 Criem um ambiente virtual na pasta onde deseja executar os mósdulos do projeto, execute o MÓDULO principal.py com o comando:
 
-`
+`python main.py`
 
-python main.py
-`
 ## COMO USAR:
 
 Crie instâncias de Carro ou Moto (no módulo main.py já há alguns objetos criados.)
@@ -94,10 +92,7 @@ Ride: Contains the definition of the Ride class.
 ## HOW TO RUN
 Create a virtual environment in the folder where you want to run the project's modules, run the MAIN module with the command:
 
-`
-
-python main.py
-`
+`python main.py`
 
 ## HOW TO USE:
 
